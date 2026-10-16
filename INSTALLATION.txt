@@ -1,0 +1,9 @@
+MécaPro — installation sur iPhone
+
+1. Hébergez les fichiers du dossier mecapro sur un site HTTPS (par exemple GitHub Pages ou Netlify).
+2. Ouvrez le site avec Safari sur iPhone.
+3. Touchez Partager, puis « Sur l’écran d’accueil », puis Ajouter.
+
+Le fichier index.html peut également être ouvert pour une démonstration locale, mais l’installation PWA et le mode hors ligne demandent un hébergement HTTPS.
+Les données sont stockées localement dans le navigateur : utilisez la fonction d’export pour les sauvegarder.
+Ce logiciel ne remplace pas les procédures et données constructeur.
